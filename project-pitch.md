@@ -13,7 +13,11 @@ High levels of domoic acid caused fishery managers in California to delay the st
 
 Another result of the blob is that the number of whales being tangled in fishing gear has skyrocketed. A marine biologist with NOAA's Southwest Fisheries Science Center told me that the center normally gets 10 entanglement reports per year. In 2013, that number jumped into the 30s. In 2016, it was 70.
 
+<<<<<<< HEAD
 In October, scientists confirmed that the blob has [returned](https://weather.com/news/climate/news/2018-10-24-the-blob-returns-pacific-ocean/).
+=======
+In October 2018, scientists confirmed the blob has [returned](https://weather.com/news/climate/news/2018-10-24-the-blob-returns-pacific-ocean/).
+>>>>>>> gh-pages
 
 I'd like to visualize how the increase of warm water off the West Coast, and the subsequent delay in crab fishing this increase has caused, is impacting whale entanglements.
 
@@ -25,4 +29,8 @@ The National Stranding Network, a subset of the National Oceanic and Atmospheric
 
 One scientist at the University of Oregon has told me he would be willing to share sattelite tracking data from tagged gray whales that shows their migration from lagoons in Baja California to the Arctic. I am speaking with him this week.
 
+<<<<<<< HEAD
 So, one possibility would be to map the gray whale stranding and tracking data in relation to shipping lanes that run north and south along the U.S. coast. The state of California keeps shapefiles of the shipping lanes on its [Geoportal](http://portal.gis.ca.gov/geoportal/catalog/search/resource/details.page?uuid=%7B953E7DF6-987F-4613-8117-ADEDDBD4D21E%7D) website.
+=======
+So, one possibility would be to map the gray whale stranding and tracking data in relation to shipping lanes that run north and south along the U.S. coast. The state of California keeps shapefiles of the shipping lanes on its [Geoportal](http://portal.gis.ca.gov/geoportal/catalog/search/resource/details.page?uuid=%7B953E7DF6-987F-4613-8117-ADEDDBD4D21E%7D) website.
+>>>>>>> gh-pages
