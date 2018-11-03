@@ -1,0 +1,88 @@
+f,case_id,year,month,common_name,confirmation,state,latitude,longitude,alive_dead,entanglement,location,county
+212,20060423Er,2006,4,Gray Whale,C,OR,45.337,-124.005,Alive,Net,"Cape Lookout, CAPE LOOKOUT; Tip of Cape Lookout, was travelling East to West on south side of Cape Lookout, was seen diving; 2 larger whales and 6-8 ""porpoises"" also seen nearby",Tillamook
+213,20060427Er,2006,4,Gray Whale,U,CA,0,0,Dead,Unknown,"San Pedro,",Los Angeles
+214,20060514Er,2006,5,Gray Whale,C,OR,43.574,-124.228,Dead,Dungeness Crab,"Lakeside, LAKESIDE; just north of 10 Mile Creek",Coos
+216,20060527Er,2006,5,Gray Whale,C,WA,47.076,-124.178,Dead,Dungeness Crab,"Ocean City Beach entrance, Quinalt",Grays Harbor
+223,20070114Er,2007,1,Gray Whale,C,OR,44.423,-124.136,Alive,Gillnet,offshore from Waldport in 25 fathoms,Lincoln
+224,20070402Er,2007,4,Gray Whale,C,CA,33.781,-118.439,Alive,Gillnet,"Rancho Palos Verdes, OFF PALOS VERDES POINT, RANCHO PALOS VERDES",Los Angeles
+226,20070420Er,2007,4,Gray Whale,C,OR,44.641,-124.154,Alive,Dungeness Crab,"Newport, NEWPORT; about 4 miles NW of Yaquina Bay jetties",Lincoln
+229,20070627Er,2007,6,Gray Whale,C,CA,36.75,-121.84,Alive,Unknown,2 MILES OFFSHORE SALINAS RIVER MOUTH,Monterey
+232,20070726Er,2007,7,Gray Whale,C,WA,0,0,Alive,Gillnet,"Seattle, WA",King
+248,20090131Er,2009,1,Gray Whale,C,CA,32.617,-117.283,Alive,Lobster,3 MILES OFF POINT LOMA,San Diego
+250,20090325Er,2009,3,Gray Whale,C,CA,33.722,-118.114,Alive,Net,"Seal Beach, OFFSHORE SEAL BEACH",Orange
+252,20090624Er,2009,6,Gray Whale,C,WA,48.38,-124.609,Alive,Gillnet,"Neah Bay, NEAH BAY; Off shore jetty/ mid jetty",Clallam
+254,20090721Er,2009,7,Gray Whale,C,CA,41.05,-124.16,Alive,Net,OFF TRINIDAD HEAD,Humboldt
+256,20100305Er,2010,3,Gray Whale,C,CA,32.66,-117.247,Alive,Unknown,"Point Loma, OFFSHORE POINT LOMA",San Diego
+258,20100407Er,2010,4,Gray Whale,C,CA,37.87,-122.417,Alive,Unknown,"San Francisco, SAN FRANCISCO BAY, BETWEEN SOUTH HAMPTON SHOAL & ANGEL ISLAND",Marin
+260,20100416Er,2010,4,Gray Whale,C,OR,46.13,-123.955,Dead,Unknown,"Gearhart, SEASIDE, CLATSOP BEACH, NORTH OF GEARHART; 2.2 miles north of Sunset Beach access",Clatsop
+262,20100507Er,2010,5,Gray Whale,C,OR,44.777,-124.163,Alive,Unknown,"Newport, CAPE FOULWEATHER; 10 miles NW of Newport, about 3 miles offshore",Lincoln
+263,20100511Er,2010,5,Gray Whale,C,CA,33.455,-117.69,Alive,Gillnet,"Dana Point, DANA POINT HARBOR",Orange
+269,20100817Er,2010,8,Gray Whale,C,CA,0,0,Alive,Dungeness Crab,1.5 MILES OFFSHORE NAVARRO RIVER,Mendocino
+278,20110713Er,2011,7,Gray Whale,C,CA,35.17,-120.748,Alive,Unknown,"Avila Beach, PORT SAN LUIS BETWEEN 2 PIERS",San Luis Obispo
+284,20110825Er,2011,8,Gray Whale,C,CA,37.521,-122.735,Alive,Unknown,"Pillar Point, 3 MILES S OF PILLAR POINT HARBOR MOUTH",San Mateo
+289,20120128Er,2012,1,Gray Whale,U,CA,32.958,-117.281,Alive,Unknown,"Del Mar, 0.75 MILES OFF DEL MAR",San Diego
+290,20120324Er,2012,3,Gray Whale,C,CA,33.457,-117.69,Alive,Gillnet,"Dana Point, DANA HARBOR, CA",Orange
+291,20120328Er,2012,3,Gray Whale,C,CA,33.597,-117.901,Alive,Unknown,"Laguna Beach, LAGUNA BEACH THEN POINT VICENTE, LOS ANGELES, CA",Orange
+292,20120417Er,2012,4,Gray Whale,C,CA,33.54,-117.788,Alive,Unknown,"Laguna Beach, 4/17/2012 - LAGUNA BEACH; 4/25/2012 - NORTH OF GORDA, CA; 5/3/2012 - 3.5 MILES OFF COAST OF BODEGA BAY",Orange
+293,20120426Er,2012,4,Gray Whale,U,CA,36.362,-121.912,Alive,Unknown,"Pacific Grove, PACIFIC GROVE",Monterey
+294,20120428Er,2012,4,Gray Whale,C,CA,39.5563,-123.76783,Alive,Unknown,"Fort Bragg, FORT BRAGG",Mendocino
+295,20120505Er,2012,5,Gray Whale,C,CA,36.791,-121.939,Alive,Unknown,"Monterey, MONTEREY BAY",Monterey
+296,20120508Er,2012,5,Gray Whale,C,CA,40.768,-124.243,Alive,Dungeness Crab,"Eureka, HUMBOLDT BAY",Humboldt
+297,20120511Er,2012,5,Gray Whale,C,CA,38.269,-122.587,Alive,Dungeness Crab,"Dillon Beach, DILLON BEACH ESTERO DE SAN ANTONIO",Marin
+298,20120513Er,2012,5,Gray Whale,C,CA,36.55,-121.9,Alive,Unknown,"Monterey, LOVER'S POINT HEADING TOWARDS POINT PINOS",Monterey
+300,20120519Er,2012,5,Gray Whale,C,OR,42.423,-124.4655,Alive,Dungeness Crab,"GOLD BEACH, OR; NEAR SHORE IN APPROXIMATELY 50 FEET OF WATER NORTH AND WEST OF ROGUE RIVER MOUTH",Curry
+304,20120831Er,2012,8,Gray Whale,C,CA,33.723,-118.337,Alive,Unknown,"San Diego, 8/31/2012 - IMPERIAL BEACH PIER, JUST OUTSIDE THE WAVES IN SAN DIEGO; 9/6/2012 - 50 YARDS NORTH OF MANHATTAN BEACH PIER IN LOS ANGELES; INITIALLY STRANDED AT MANHATTAN BEACH, TOWED OFFSHORE BY BAYWATCH; SUBSEQUENTLY OBSERVED FLOATING AND THEN",San Diego
+305,20121013Er,2012,10,Gray Whale,C,CA,39.516,-123.782,Alive,Gillnet,"Fort Bragg, MACKERRICHER STATE PARK, JUST OUTSIDE THE SURF ZONE",Mendocino
+307,20130110Er,2013,1,Gray Whale,U,WA,48.177,-123.687,Alive,Unknown,"1.5 MILES OFFSHORE SALT CREEK RECREATIONAL AREA, NEAR PORT ANGELES, WA",Clallam
+308,20130203Er,2013,2,Gray Whale,U,CA,32.54,-117.025,Alive,Unknown,"5 NMI WEST OF POINT LOMA, NEAR US/MEXICO BORDER",San Diego
+309,20130308Er,2013,3,Gray Whale,C,WA,48.2905,-124.8361,Alive,Unknown,"First Sighting 48 17.43 N, -124 50.17 W Secondary Location 48 19.00N, -124 50.57W Final Location 48 20.53N, -124 51.50W",Clallam
+310,20130322Er,2013,3,Gray Whale,U,OR,43.3266,-124.4433,Alive,Unknown,"2 miles west of Cape Arago, OR 43 19.6N, -124 26.6W",Coos
+311,20130328Er,2013,3,Gray Whale,C,CA,33.659,-118.255,Alive,Unknown,"Los Angeles, 3 MILES SOUTH OF ANGEL'S GATE, PORT OF LOS ANGELES",Los Angeles
+312,20130413Er,2013,4,Gray Whale,C,CA,34.344,-119.788,Alive,Unknown,"Santa Barbara, SANTA BARBARA POINT",Santa Barbara
+313,20130418Er,2013,4,Gray Whale,C,CA,37.779,-122.517,Alive,Dungeness Crab,"San Francisco, SAN FRANCISCO, NEAR CLIFF HOUSE RESTAURANT",San Francisco
+314,20130513Er,2013,5,Gray Whale,U,OR,42.041,-124.311,Alive,Unknown,"Brookings,",Curry
+315,20130625Er_1,2013,6,Gray Whale,C,CA,40.617,-124.328,Dead,Gillnet,"Ferndale, HUMBOLDT; Centerville Beach; 1.5 miles south of Eel River mouth",Humboldt
+316,20130625Er_2,2013,6,Gray Whale,C,CA,38.001,-123.012,Dead,Unknown,"Point Reyes,",Marin
+317,20130627Er,2013,6,Gray Whale,C,OR,42.943,-124.497,Dead,Dungeness Crab,"Langlois,",Curry
+318,20130716Er,2013,7,Gray Whale,C,CA,38.038,-122.994,Dead,Dungeness Crab,"Point Reyes, SOUTH BEACH, POINT REYES; South Beach, 500 yards S of of main beach parking lot (Point Reyes National Seashore)",Marin
+320,20130904Er,2013,9,Gray Whale,C,WA,48.36616,-124.5566,Alive,Dungeness Crab,"1st Sighting - Cape Flattery, WA followed South to Wa'atch Point. 2nd Sighting - Seal Rock 48 21.7’ N, 124 33.4’ W",Clallam
+321,20131023Er,2013,10,Gray Whale,C,CA,33.552,-120.795,Dead,Dungeness Crab,OFF SOUTHERN CALIFORNIA,San Diego
+322,20140105Er,2014,1,Gray Whale,C,CA,36.58,-121.979,Alive,Unknown,"Cypress Point, CYPRESS POINT, MONTEREY",Monterey
+324,20140415Er,2014,4,Gray Whale,U,CA,34.196,-119.258,Alive,Unknown,"Oxnard, OXNARD",Ventura
+330,20140527Er,2014,5,Gray Whale,C,OR,42.523,-124.411,Alive,Unknown,"Gold Beach, GOLDS BEACH, OR; Nesika Beach, 33622 Ofir Road",Curry
+331,20140528Er,2014,5,Gray Whale,C,OR,44.762,-124.073,Alive,Unknown,"Otter Rock, NEAR DEPOE BAY; off Otter Crest and Cape Foulweather, later between south point and Boiler Bay, Depoe Bay; sighted next day off Cape Kiwanda (Pacific City)",Lincoln
+336,20140724Er,2014,7,Gray Whale,C,CA,33.2086,-117.461,Alive,Unknown,"San Diego, SURF ZONE",San Diego
+339,20140902Er,2014,9,Gray Whale,C,CA,33.715,-118.152,Alive,Gillnet,"Long Beach, LONG BEACH, CA",Los Angeles
+340,20140911Er,2014,9,Gray Whale,C,CA,33.128,-117.523,Alive,Unknown,"Oceanside, 6 NM OFF OCEANSIDE, CA",San Diego
+353,20150202Er,2015,2,Gray Whale,C,CA,33.777,-118.47,Alive,Gillnet,"Palos Verdes, 2 miles west of Rocky Pt, near PV 10 buoy?",Los Angeles
+357,20150226Er,2015,2,Gray Whale,C,CA,34.456,-120.641,Alive,Unknown,"Santa Barbara, 0.5 nm north of oil platform Hermosa, 8 nm from Pt Conception",Santa Barbara
+359,20150307Er,2015,3,Gray Whale,C,CA,33.372,-117.644,Alive,Unknown,"San Clemente, 1 mile off San Clemente Pier",Orange
+360,20150311Er,2015,3,Gray Whale,C,CA,35.75,-121.417,Alive,Dungeness Crab,"San Simeon, off san simeon north of Morro Bay",San Luis Obispo
+361,20150316Er,2015,3,Gray Whale,C,CA,33.439,-117.696,Alive,Unknown,"Marrowstone Island, Marrowstone Point",Jefferson
+362,20150319Er,2015,3,Gray Whale,C,WA,48.105,-122.679,Alive,Unknown,"Dana Point,",Orange
+370,20150521Er,2015,5,Gray Whale,C,OR,42.063,-124.275,Alive,Unknown,"Brookings, .25 nm south of the mouth of Chetco River in Brookings, Oregon (42.0630, -124.27500) on May 21, 2015 and just south of Cape Meares Lighthouse (45.450223, -124.038833) on May 25,2015",Curry
+384,20150730Er,2015,7,Gray Whale,C,CA,33.661,-118.097,Alive,Gillnet,"Huntington Beach, JUST OFF HUNTINGTON BEACH",Orange
+386,20150815Er,2015,8,Gray Whale,C,WA,48.375,-124.608,Alive,Gillnet,"Neah Bay, inside Neah Bay; 2nd sighing within 2 miles of original report location known as Snow Creek; 3rd sighting just outside entrance of Neah Bay Harbor; 4th sighting location not specified",Clallam
+391,20150908Er,2015,9,Gray Whale,U,CA,34.377,-119.483,Alive,Unknown,RINCON BEACH,Santa Barbara
+396,20150926Er,2015,9,Gray Whale,U,CA,33.307,-117.76,Alive,Unknown,"San Clemente, 12 MILES OFF SAN ONOFRE",Orange
+411,20151221Er,2015,12,Gray Whale,C,CA,33.254,-117.469,Alive,Unknown,"Camp Pendleton, off Camp Pendleton",San Diego
+414,20160205Er,2016,2,Gray Whale,C,CA,33.4429,-117.6999,Alive,Unknown,3/4 miles off Dana Point,Orange
+424,20160421Er,2016,4,Gray Whale,C,CA,33.4478,-117.686,Alive,Unknown,Dana Point,Orange
+425,20160422Er,2016,4,Gray Whale,C,CA,33.6087,-117.938,Alive,Unknown,Newport,Orange
+483,20170128Er,2017,1,Gray Whale,C,CA,33.7653,-118.4452,Alive,Dungeness Crab,1 mile offshore Pt Vicente,Los Angeles
+484,20170202Er,2017,2,Gray Whale,U,CA,32.559,-117.212,Alive,Unknown,"Imperial, 4 nautical miles",San Diego
+485,20170212Er,2017,2,Gray Whale,U,CA,33.1507,-117.35,Alive,Unknown,"Carlsbad, offshore 3475 Carlsbad blvd.",San Diego
+486,20170312Er,2017,3,Gray Whale,C,CA,33.182,-117.466,Alive,Unknown,7.5 miles off Oceanside harbor,San Diego
+487,20170319Er_1,2017,3,Gray Whale,C,CA,33.448,-117.7077,Alive,Gillnet,1 mile WSW entrance to Dana Point Harbor,Orange
+488,20170319Er_2,2017,3,Gray Whale,U,CA,34.4687,-120.1218,Alive,Unknown,Off Refugio State Beach,Santa Barbara
+489,20170328Er,2017,3,Gray Whale,C,CA,33.571,-117.909,Alive,Gillnet,Newport Beach,Orange
+490,20170329Er,2017,3,Gray Whale,U,CA,33.7291,-118.386,Alive,Unknown,1/2 miles off Terranea,Los Angeles
+491,20170401Er,2017,4,Gray Whale,C,CA,33.4586,-117.7154,Alive,Unknown,5 fathom line by San Juan Rock,Orange
+492,20170415Er,2017,4,Gray Whale,C,CA,33.404,-117.6247,Alive,Gillnet,Between seal rock and San Clemente Pier,Orange
+493,20170416Er,2017,4,Gray Whale,C,CA,33.75,-118.428,Alive,Unknown,1/4 mile off Point Vicente,Los Angeles
+495,20170419Er,2017,4,Gray Whale,C,CA,35.663,-121.287,Alive,Unknown,"Piedras Blancas lighthouse, San Simeon",San Luis Obispo
+496,20170420Er,2017,4,Gray Whale,U,CA,35.663,-121.287,Alive,Unknown,"Piedras Blancas lighthouse, San Simeon",San Luis Obispo
+497,20170421Er,2017,4,Gray Whale,C,CA,33.614,-117.95,Alive,Unknown,"1st seen Emerald Bay, lasy seen Newport Beach Pier, 1/2 mile north",Orange
+498,20170428Er,2017,4,Gray Whale,C,WA,46.268,-124.01,Dead,Dungeness Crab,"Seaview Beach Approach, Long Beach Peninsula, WA",Pacific
+519,20171108Er,2017,11,Gray Whale,C,CA,34.20708,-119.2541,Dead,Unknown,End of 5th st next to Mandalay NRG power plant,Ventura
+522,20171211Er,2017,12,Gray Whale,C,CA,33.5743,-117.8428,Alive,Gillnet,Crystal Cove Beach,Orange
