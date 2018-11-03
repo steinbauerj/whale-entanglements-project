@@ -13,7 +13,7 @@ High levels of domoic acid caused fishery managers in California to delay the st
 
 Another result of the blob is that the number of whales being tangled in fishing gear has skyrocketed. A marine biologist with NOAA's Southwest Fisheries Science Center told me that the center normally gets 10 entanglement reports per year. In 2013, that number jumped into the 30s. In 2016, it was 70.
 
-In October, scientists confirmed that the blob has [returned](https://weather.com/news/climate/news/2018-10-24-the-blob-returns-pacific-ocean/).
+In October 2018, scientists confirmed the blob has [returned](https://weather.com/news/climate/news/2018-10-24-the-blob-returns-pacific-ocean/).
 
 I'd like to visualize how the increase of warm water off the West Coast, and the subsequent delay in crab fishing this increase has caused, is impacting whale entanglements.
 
